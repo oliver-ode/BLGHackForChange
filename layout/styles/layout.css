@@ -5,7 +5,7 @@
 /* Personal Commits
 */
 #body #top{
-	font-family: 'Raleway', sans-serif;
+	font-family: Raleway, sans-serif;
 }
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
@@ -17,12 +17,14 @@
 .row5, .row5 a{}
 
 
+
+
 /* Header
 --------------------------------------------------------------------------------------------------------------- */
 #header{}
 #header #logo{margin:30px 0 0 0;}
 #header #logo h1{margin:0; padding:0; font-size:50px; text-transform:uppercase;}
-
+#welcome { text-align: center;font-family: Raleway; font-size: 30px; }
 
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
