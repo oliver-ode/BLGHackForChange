@@ -243,7 +243,7 @@ td{border-width:0 1px;}
 
 /* Gallery
 --------------------------------------------------------------------------------------------------------------- */
-#gallery{display:block; margin-left: auto;margin-right: auto; width:100%; margin-bottom:50px}
+#gallery{display:block; margin-left: auto;margin-right: auto; width:90%; margin-bottom:50px}
 #gallery figure figcaption{display:block; width:90%; clear:both;}
 #gallery h1{margin:0; padding:20px; font-size:50px;}
 #gallery li{margin-bottom:20px; display:block; vertical-align: middle;}
@@ -252,6 +252,7 @@ td{border-width:0 1px;}
     height: 100%;
     vertical-align: middle;
     border: 1px solid #ddd;
+    max-height: 200px;
 }
 
 /* Font Awesome Social Icons
