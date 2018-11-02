@@ -243,11 +243,17 @@ td{border-width:0 1px;}
 
 /* Gallery
 --------------------------------------------------------------------------------------------------------------- */
-#gallery{display:block; width:100%; margin-bottom:50px;}
+#gallery{display:block; margin-left: auto;margin-right: auto; width:100%; margin-bottom:50px}
 #gallery figure figcaption{display:block; width:90%; clear:both;}
 #gallery h1{margin:0; padding:20px; font-size:50px;}
-#gallery li{margin-bottom:20px;}
+#gallery li{margin-bottom:20px; display:block;}
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 /* Font Awesome Social Icons
 --------------------------------------------------------------------------------------------------------------- */
