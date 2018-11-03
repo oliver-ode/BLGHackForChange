@@ -22,7 +22,7 @@ File: Layout CSS
 .row5, .row5 a{}
 /* Personal Commits
 --------------------------------------------------------------------------------------------------------------- */ 
-.drop,.Home1, .Home2,.SAID {
+.drop,.Home1, .Home2, .Home3, .SAID {
 	font-family: 'Raleway', sans-serif; 
 }
 .imgr {
@@ -37,7 +37,14 @@ File: Layout CSS
 
 .Home2 {
 	font-family: 'Raleway', sans-serif; 
-	font-size: 50px;
+	font-size: 30px;
+	margin-top: 20px;
+	margin-bottom:20px;
+}
+
+.Home3 {
+	font-family: 'Raleway', sans-serif; 
+	font-size: 20px;
 	margin-top: 20px;
 	margin-bottom:20px;
 }
@@ -116,7 +123,7 @@ File: Layout CSS
 #comments ul{margin:0 0 40px 0; padding:0; list-style:none;}
 #comments li{margin:0 0 10px 0; padding:15px;}
 #comments .avatar{float:right; margin:0 0 10px 10px; padding:3px; border:1px solid;}
-#comments address{font-weight:bold;}
+#comments address{font-weight:normal;}
 #comments time{font-size:smaller;}
 #comments .comcont{display:block; margin:0; padding:0;}
 #comments .comcont p{margin:10px 5px 10px 0; padding:0;}
@@ -153,7 +160,7 @@ File: Layout CSS
 #ctdetails li{position:relative; min-height:50px; padding-left:70px;}
 #ctdetails li:last-child{margin-bottom:0;}/* Used in small devices when elements stack */
 #ctdetails li *{margin:0; padding:0;}
-#ctdetails li p:first-of-type{font-weight:700; text-transform:uppercase;}
+#ctdetails li p:first-of-type{font-weight:normal; text-transform:uppercase;}
 #ctdetails i{display:block; position:absolute; top:0; left:0; width:50px; height:50px; line-height:50px; text-align:center; font-size:24px;}
 
 
@@ -429,8 +436,8 @@ table a, #comments a{background-color:inherit;}
 
 @media screen and (max-width:750px){
 	.imgl, .imgr{display:inline-block; float:none; margin:0 0 10px 0;}
-	.fl_left, .fl_right{display:block; float:none;}
-	.one_half, .one_third, .two_third, .one_quarter, .two_quarter, .three_quarter{display:block; float:none; width:auto; margin:0 0 30px 0; padding:0;}
+	.fl_right{display:block; float:none;}
+	.one_half, .two_third, .one_quarter, .two_quarter, .three_quarter{display:block; float:none; width:auto; margin:0 0 30px 0; padding:0;}
 
 	#header{text-align:center;}
 	#header #logo{margin:0 0 15px 0;}
