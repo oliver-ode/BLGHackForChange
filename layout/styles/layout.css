@@ -5,7 +5,7 @@
 /* Personal Commits
 */
 #body #top{
-	font-family: Raleway, sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
@@ -75,7 +75,7 @@
 #testimonials figure figcaption br{display:none;}
 #testimonials figure figcaption em{font-size:.8rem;}
 #testimonials blockquote{display:block; position:relative; width:100%; margin:0 0 25px 0; padding:30px; z-index:1;}
-#testimonials blockquote::before{display:block; position:absolute; bottom:-25px; left:50%; width:50px; height:50px; line-height:50px; margin:0 0 0 -25px; font-family:"FontAwesome"; font-size:22px; content:"\f10d"; text-align:center; border-radius:50%;}
+#testimonials blockquote::before{display:block; position:absolute; bottom:-25px; left:50%; width:50px; height:50px; line-height:50px; margin:0 0 0 -25px; font-family:"Raleway"; font-size:22px; content:"\f10d"; text-align:center; border-radius:50%;}
 #testimonials blockquote::after{display:none;}
 
 .latest{}
@@ -114,7 +114,7 @@
 /* Sidebar */
 .container .sidebar{}
 
-.sidebar .sdb_holder{margin-bottom:50px;}
+.sidebar .sdb_holder{margin-bottom:50px; font-family: 'Raleway', sans-serif;}
 .sidebar .sdb_holder:last-child{margin-bottom:0;}
 
 
@@ -182,7 +182,7 @@
 nav ul, nav ol{margin:0; padding:0; list-style:none;}
 
 #mainav, #breadcrumb, .sidebar nav{line-height:normal;}
-#mainav .drop::after, #mainav li li .drop::after, #breadcrumb li a::after, .sidebar nav a::after{position:absolute; font-family:"FontAwesome"; font-size:10px; line-height:10px;}
+#mainav .drop::after, #mainav li li .drop::after, #breadcrumb li a::after, .sidebar nav a::after{position:absolute; font-family:"Raleway"; font-size:10px; line-height:10px;}
 
 /* Top Navigation */
 #mainav{}
