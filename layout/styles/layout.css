@@ -16,16 +16,23 @@
 .row4, .row4 a{}
 .row5, .row5 a{}
 
+#welcome h1{
+	text-align: center;
 
+}
 
 
 /* Header
 --------------------------------------------------------------------------------------------------------------- */
 #header{}
-#header #welcome h1{font-size: 10px; text-align: center;}
-#header #logo h1{margin:0; padding:0; font-size:50px; text-transform:uppercase;}
-#welcome { text-align: center;font-family: Raleway; font-size: 30px; }
+#header #logo h1{margin-top:27px; padding:0; font-size:22px; text-transform:uppercase;}
+#header section {
+	text-align: center;
+}
 
+#welcome {
+	text-align: center;
+}
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
 #pageintro{padding:200px 0;}
