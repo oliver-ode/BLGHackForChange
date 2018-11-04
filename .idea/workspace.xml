@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7736f824-2aba-4e13-8e5f-62f8fc019d7b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/Actionaghunger/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/Actionaghunger/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/AmnestyInternational/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/AmnestyInternational/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/CARE/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/CARE/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/DoctorsWithoutBorders/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/DoctorsWithoutBorders/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/ECPHAO/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/ECPHAO/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/PeopleInNeed (PIN)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/PeopleInNeed (PIN)/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/Room2Read/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/Room2Read/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/Splash/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/Splash/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/UNICEF/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/UNICEF/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/WWF/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/WWF/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/WorldFoodProgrammes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/WorldFoodProgrammes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/bloodwater/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/bloodwater/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/const4change/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/const4change/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ngoHub/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngoHub/wateraid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/wateraid/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/User_Profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/User_Profile.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,17 +31,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ngoHub/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="140" column="25" lean-forward="true" selection-start-line="140" selection-start-column="25" selection-end-line="140" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -49,23 +55,23 @@
       <list>
         <option value="$PROJECT_DIR$/layout/styles/layout.css" />
         <option value="$PROJECT_DIR$/layout/styles/layout1.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/ngoHub/Actionaghunger/index.html" />
-        <option value="$PROJECT_DIR$/ngoHub/AmnestyInternational/index.html" />
-        <option value="$PROJECT_DIR$/ngoHub/bloodwater/index.html" />
-        <option value="$PROJECT_DIR$/ngoHub/CARE/index.html" />
         <option value="$PROJECT_DIR$/ngoHub/const4change/index.html" />
+        <option value="$PROJECT_DIR$/ngoHub/CARE/index.html" />
+        <option value="$PROJECT_DIR$/ngoHub/bloodwater/index.html" />
+        <option value="$PROJECT_DIR$/ngoHub/AmnestyInternational/index.html" />
+        <option value="$PROJECT_DIR$/ngoHub/Actionaghunger/index.html" />
         <option value="$PROJECT_DIR$/ngoHub/DoctorsWithoutBorders/index.html" />
         <option value="$PROJECT_DIR$/ngoHub/ECPHAO/index.html" />
         <option value="$PROJECT_DIR$/ngoHub/PeopleInNeed (PIN)/index.html" />
         <option value="$PROJECT_DIR$/ngoHub/Room2Read/index.html" />
         <option value="$PROJECT_DIR$/ngoHub/Splash/index.html" />
-        <option value="$PROJECT_DIR$/ngoHub/wateraid/index.html" />
         <option value="$PROJECT_DIR$/ngoHub/UNICEF/index.html" />
+        <option value="$PROJECT_DIR$/ngoHub/wateraid/index.html" />
         <option value="$PROJECT_DIR$/ngoHub/WorldFoodProgrammes/index.html" />
         <option value="$PROJECT_DIR$/ngoHub/WWF/index.html" />
-        <option value="$PROJECT_DIR$/pages/User_Profile.html" />
         <option value="$PROJECT_DIR$/ngoHub/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pages/User_Profile.html" />
       </list>
     </option>
   </component>
@@ -96,6 +102,90 @@
               <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
               <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
               <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="Actionaghunger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="AmnestyInternational" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="bloodwater" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="CARE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="const4change" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="DoctorsWithoutBorders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="ECPHAO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="PeopleInNeed (PIN)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="Room2Read" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="Splash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="UNICEF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="wateraid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="WorldFoodProgrammes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
+              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
+              <item name="WWF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,16 +234,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541338988666</updated>
-      <workItem from="1541338993706" duration="6910000" />
+      <workItem from="1541338993706" duration="7587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5008000" />
+    <option name="totallyTimeSpent" value="5685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -204,9 +293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layout/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -223,125 +309,128 @@
     <entry file="file://$PROJECT_DIR$/ngoHub/ngo1/ngoIndex.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ngoHub/AmnestyInternational/index.html">
+    <entry file="file://$PROJECT_DIR$/ngoHub/CARE/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="85" column="89" selection-start-line="85" selection-start-column="89" selection-end-line="85" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ngoHub/Actionaghunger/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="84" column="10" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="89" />
+        <state relative-caret-position="662">
+          <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ngoHub/bloodwater/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="84" column="89" selection-start-line="84" selection-start-column="89" selection-end-line="84" selection-end-column="89" />
+        <state relative-caret-position="622">
+          <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ngoHub/CARE/index.html">
+    <entry file="file://$PROJECT_DIR$/ngoHub/AmnestyInternational/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="84" column="89" selection-start-line="84" selection-start-column="89" selection-end-line="84" selection-end-column="89" />
+        <state relative-caret-position="561">
+          <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngoHub/Actionaghunger/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ngoHub/const4change/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="84" column="89" selection-start-line="84" selection-start-column="89" selection-end-line="84" selection-end-column="89" />
+        <state relative-caret-position="610">
+          <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ngoHub/DoctorsWithoutBorders/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="85" column="89" selection-start-line="85" selection-start-column="89" selection-end-line="85" selection-end-column="89" />
+        <state relative-caret-position="513">
+          <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ngoHub/ECPHAO/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="85" column="89" selection-start-line="85" selection-start-column="89" selection-end-line="85" selection-end-column="89" />
+        <state relative-caret-position="495">
+          <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ngoHub/PeopleInNeed (PIN)/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="84" column="89" selection-start-line="84" selection-start-column="89" selection-end-line="84" selection-end-column="89" />
+        <state relative-caret-position="629">
+          <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ngoHub/Room2Read/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="84" column="99" selection-start-line="84" selection-start-column="99" selection-end-line="84" selection-end-column="99" />
+        <state relative-caret-position="654">
+          <caret line="78" column="75" selection-start-line="78" selection-start-column="75" selection-end-line="78" selection-end-column="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ngoHub/Splash/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="84" column="89" selection-start-line="84" selection-start-column="89" selection-end-line="84" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ngoHub/wateraid/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="84" column="89" selection-start-line="84" selection-start-column="89" selection-end-line="84" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ngoHub/WorldFoodProgrammes/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="83" selection-end-column="15" />
+        <state relative-caret-position="654">
+          <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ngoHub/UNICEF/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="84" column="89" selection-start-line="84" selection-start-column="89" selection-end-line="84" selection-end-column="89" />
+        <state relative-caret-position="654">
+          <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngoHub/wateraid/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngoHub/WorldFoodProgrammes/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ngoHub/WWF/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="78" column="26" lean-forward="true" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/User_Profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="75" column="64" selection-start-line="75" selection-start-column="64" selection-end-line="75" selection-end-column="64" />
+        <state relative-caret-position="574">
+          <caret line="82" column="17" lean-forward="true" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ngoHub/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="140" column="25" lean-forward="true" selection-start-line="140" selection-start-column="25" selection-end-line="140" selection-end-column="25" />
+        <state relative-caret-position="-168">
+          <caret line="70" column="72" selection-start-line="70" selection-start-column="72" selection-end-line="70" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="69" column="36" lean-forward="true" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/User_Profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="46" column="82" selection-start-line="46" selection-start-column="82" selection-end-line="46" selection-end-column="82" />
         </state>
       </provider>
     </entry>
