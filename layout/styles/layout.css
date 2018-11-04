@@ -5,7 +5,7 @@
 /* Personal Commits
 */
 #body #top{
-	font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
@@ -17,11 +17,11 @@
 .row5, .row5 a{}
 
 #welcome h1{
-	text-align: center;
-	margin-top: 250px;
-	margin-bottom: 250px;
-	font-size: 60px;
-	font-family: 'Raleway';
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 250px;
+    font-size: 60px;
+    font-family: 'Raleway';
 }
 
 .row6 { font-family: 'Raleway' }
@@ -33,7 +33,7 @@
 #header{}
 #header #logo h1{margin-top:27px; padding:0; font-size:22px; text-transform:uppercase;}
 #header section {
-	text-align: center;
+    text-align: center;
 }
 
 /* Page Intro
@@ -182,7 +182,7 @@
 nav ul, nav ol{margin:0; padding:0; list-style:none;}
 
 #mainav, #breadcrumb, .sidebar nav{line-height:normal;}
-#mainav .drop::after, #mainav li li .drop::after, #breadcrumb li a::after, .sidebar nav a::after{position:absolute; font-family:"Raleway"; font-size:10px; line-height:10px;}
+#mainav .drop::after, #mainav li li .drop::after, #breadcrumb li a::after, .sidebar nav a::after{position:absolute; font-family:"FontAwesome"; font-size:10px; line-height:10px;}
 
 /* Top Navigation */
 #mainav{}
@@ -389,66 +389,66 @@ table a, #comments a{background-color:inherit;}
 /* Max Wrapper Width - Laptop, Desktop etc.
 --------------------------------------------------------------------------------------------------------------- */
 @media screen and (min-width:978px){
-	.hoc{max-width:978px;}
+    .hoc{max-width:978px;}
 }
 
 
 /* Mobile Devices
 --------------------------------------------------------------------------------------------------------------- */
 @media screen and (max-width:900px){
-	.hoc{max-width:90%;}
+    .hoc{max-width:90%;}
 
-	#header{padding:30px 0;}
-	#header #logo{margin-top:3px;}
+    #header{padding:30px 0;}
+    #header #logo{margin-top:3px;}
 
-	#mainav{}
-	#mainav ul{display:none;}
-	#mainav form{display:block;}
+    #mainav{}
+    #mainav ul{display:none;}
+    #mainav form{display:block;}
 
-	#breadcrumb{}
+    #breadcrumb{}
 
-	.container{}
-	#comments input[type="reset"]{margin-top:10px;}
-	.pagination li{display:inline-block; margin:0 5px 5px 0;}
+    .container{}
+    #comments input[type="reset"]{margin-top:10px;}
+    .pagination li{display:inline-block; margin:0 5px 5px 0;}
 
-	#footer{}
+    #footer{}
 
-	#copyright{}
-	#copyright p:first-of-type{margin-bottom:10px;}
+    #copyright{}
+    #copyright p:first-of-type{margin-bottom:10px;}
 }
 
 
 @media screen and (max-width:750px){
-	.imgl, .imgr{display:inline-block; float:none; margin:0 0 10px 0;}
-	.fl_left, .fl_right{display:block; float:none;}
-	.one_half, .one_third, .two_third, .one_quarter, .two_quarter, .three_quarter{display:block; float:none; width:auto; margin:0 0 30px 0; padding:0;}
+    .imgl, .imgr{display:inline-block; float:none; margin:0 0 10px 0;}
+    .fl_left, .fl_right{display:block; float:none;}
+    .one_half, .one_third, .two_third, .one_quarter, .two_quarter, .three_quarter{display:block; float:none; width:auto; margin:0 0 30px 0; padding:0;}
 
-	#header{text-align:center;}
-	#header #logo{margin:0 0 15px 0;}
+    #header{text-align:center;}
+    #header #logo{margin:0 0 15px 0;}
 
-	#testimonials blockquote{margin-bottom:50px;}
+    #testimonials blockquote{margin-bottom:50px;}
 
-	.cta > :first-child{margin-top:0;}
+    .cta > :first-child{margin-top:0;}
 
-	#footer{padding-bottom:50px;}/* Not neccessary - just looks better */
+    #footer{padding-bottom:50px;}/* Not neccessary - just looks better */
 }
 
 
 /* Other
 --------------------------------------------------------------------------------------------------------------- */
 @media screen and (max-width:650px){
-	.scrollable{display:block; width:100%; margin:0 0 30px 0; padding:0 0 15px 0; overflow:auto; overflow-x:scroll;}
-	.scrollable table{margin:0; padding:0; white-space:nowrap;}
+    .scrollable{display:block; width:100%; margin:0 0 30px 0; padding:0 0 15px 0; overflow:auto; overflow-x:scroll;}
+    .scrollable table{margin:0; padding:0; white-space:nowrap;}
 
-	.inline li{display:block; margin-bottom:10px;}
-	.pushright li{margin-right:0;}
+    .inline li{display:block; margin-bottom:10px;}
+    .pushright li{margin-right:0;}
 
-	.font-x2{font-size:1.4rem;}
-	.font-x3{font-size:1.6rem;}
+    .font-x2{font-size:1.4rem;}
+    .font-x3{font-size:1.6rem;}
 
-	#pageintro article, #pageintro p:first-of-type{max-width:none; width:100%;}
-	#pageintro .heading{font-size:1.6rem;}
+    #pageintro article, #pageintro p:first-of-type{max-width:none; width:100%;}
+    #pageintro .heading{font-size:1.6rem;}
 
-	.hoc.split{max-width:none; width:100%;}
-	.split section{float:none; width:100%; padding:10% 5%;}
+    .hoc.split{max-width:none; width:100%;}
+    .split section{float:none; width:100%; padding:10% 5%;}
 }
