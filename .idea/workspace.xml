@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7736f824-2aba-4e13-8e5f-62f8fc019d7b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngoHub/AmnestyInternational/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/AmnestyInternational/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngoHub/DoctorsWithoutBorders/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/DoctorsWithoutBorders/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngoHub/ECPHAO/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/ECPHAO/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngoHub/WWF/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/WWF/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngoHub/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngoHub/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="7736f824-2aba-4e13-8e5f-62f8fc019d7b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -22,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ngoHub/WWF/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+            <state relative-caret-position="386">
+              <caret line="78" column="26" lean-forward="true" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ngoHub/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="76" column="45" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -106,90 +107,6 @@
             <path>
               <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
               <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="Actionaghunger" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="AmnestyInternational" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="bloodwater" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="CARE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="const4change" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="DoctorsWithoutBorders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="ECPHAO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="PeopleInNeed (PIN)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="Room2Read" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="Splash" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="UNICEF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="wateraid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="WorldFoodProgrammes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
-              <item name="ngoHub" type="462c0819:PsiDirectoryNode" />
-              <item name="WWF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BLGHackForChange" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BLGHackForChange" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -239,12 +156,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541338988666</updated>
-      <workItem from="1541338993706" duration="6232000" />
+      <workItem from="1541338993706" duration="6447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4330000" />
+    <option name="totallyTimeSpent" value="4545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -329,13 +246,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ngoHub/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="76" column="45" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -432,8 +342,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ngoHub/WWF/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+        <state relative-caret-position="386">
+          <caret line="78" column="26" lean-forward="true" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngoHub/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="76" column="45" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
         </state>
       </provider>
     </entry>
